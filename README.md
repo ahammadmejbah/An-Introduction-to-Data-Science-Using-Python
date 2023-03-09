@@ -1,5 +1,3 @@
-An Introduction to Data Science Using Python
-
 Data science is the process of extracting information and insights from a vast and varied collection of data by organizing, processing, and analyzing the data. This is accomplished via the field of data science. It requires expertise in a wide variety of fields, including as mathematical and statistical modeling, the extraction of data from its original source, and the use of tools for data visualization. Very often, it also requires working with big data technologies in order to collect organized as well as unstructured data. In the following, we will look at a few examples of how data science may be put to use.
 
 * Systems for making recommendations
